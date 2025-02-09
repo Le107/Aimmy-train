@@ -1,0 +1,2 @@
+python sorting.py
+cmd

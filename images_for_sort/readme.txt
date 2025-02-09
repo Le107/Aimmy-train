@@ -1,0 +1,1 @@
+images to sort for training and validation (70/30)
